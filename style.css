@@ -1,0 +1,43 @@
+
+table { 
+    border: 10px solid white; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 100px;
+} 
+
+input[type="button"] { 
+    width: 100%; 
+    padding: 20px 40px; 
+    background-color: pink; 
+    color: red; 
+    font-size: 50px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 15px; 
+
+} 
+
+input[type="text"] {
+    width: 200px;
+    padding: 20px 30px; 
+    font-size: 50px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius:  100px; 
+    padding-left: 100px;
+    text-align: right;
+    border: 2px solid pink; 
+    color: red;
+} 
+
+body{
+    background: grey;
+}
+
+table{
+    background-color: white;
+    border-radius: 40px; 
+    border: 20px solid pink; 
+}
+
